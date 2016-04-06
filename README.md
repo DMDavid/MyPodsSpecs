@@ -1,0 +1,2 @@
+# MyPodsSpecs
+Specs
